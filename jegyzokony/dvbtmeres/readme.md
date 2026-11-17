@@ -16,7 +16,7 @@
 **Antenna magassága:** 1.7 m  
 **Környezet jellemzői:** V3 labor, városi körülmények között  
 **Adó távolsága:** 780,08 m
-**Elheyezkedés:**  
+**Elheyezkedés:**   
 <img width="779" height="692" alt="map" src="https://github.com/user-attachments/assets/fe7a95f7-9794-4cf4-86fc-222a0d7c600c" />
 
 ### 3. Mérési paraméterek ###
