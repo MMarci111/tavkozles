@@ -28,3 +28,15 @@
 **MER**	27.0 dB  
 **Noise Margin**	12.0  
 **Hiba nélkül vett adás időtartama**	200 sec  
+
+**A Miskolci TV adótorony által sugárzott frekvenciák**  
+<img width="1613" height="648" alt="miskolciTV" src="https://github.com/user-attachments/assets/e8d01e7f-836d-4ab0-a9ce-329510c62bb6" />
+**A CH45 -ös csatornán mért spektrum**  
+
+**A CH45 -ös csatornán mért jelerősség, jel/zaj viszony, és bithibák**  
+
+**A CH45 -ös csatorna konstellációs diagramja**  
+
+**A CH45 -ös csatornán a M2 HD jelszint és TV adás**  
+
+**A CH45 -ös csatornán a M2 HD műsora**  
