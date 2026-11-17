@@ -24,7 +24,7 @@
 **Adó frekvencia:**	586 MHz  
 **Sávszélesség:**	8MHz  
 **Moduláció típusa:**	64-QAM, 8K, 1/4  
-**Jelerősség:** **(RSSI)**	63.8 dBu  
+**Jelerősség** **(RSSI):**	63.8 dBu  
 **MER:**	27.0 dB  
 **Noise Margin:**	12.0  
 **Hiba nélkül vett adás időtartama:**	200 sec  
