@@ -1,7 +1,7 @@
 # DVB-T jegyzőkönyv #
 **Mérési hely:** Miskolci SZC Kandó Kálmán Informatikai Technikum  
 **Mérési időpont:** 2026.11.17.  
-**Mérő Műszerek:** METEK HD - SV: 1.18.2023 - SN: 211110001346  
+**Mérő Műszerek:** METEK HD - SV: 1.18.2023 - SN: 210901000074 
 **Felelős személy:** Medve Márton 
 **Cél:** A DVB-T jel minőségi paramétereinek mérése.  
 
