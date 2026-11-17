@@ -32,12 +32,12 @@
 **A Miskolci TV adótorony által sugárzott frekvenciák**  
 <img width="1613" height="648" alt="miskolciTV" src="https://github.com/user-attachments/assets/e8d01e7f-836d-4ab0-a9ce-329510c62bb6" />
 **A CH45 -ös csatornán mért spektrum**  
-[its_snapshot_0025.bmp](https://github.com/user-attachments/files/34962781/its_snapshot_0025.bmp)
+
 **A CH45 -ös csatornán mért jelerősség, jel/zaj viszony, és bithibák**  
-[its_snapshot_0026.bmp](https://github.com/user-attachments/files/34962822/its_snapshot_0026.bmp)
+
 **A CH45 -ös csatorna konstellációs diagramja**  
 
 **A CH45 -ös csatornán a M2 HD jelszint és TV adás**  
-[its_snapshot_0023.bmp](https://github.com/user-attachments/files/34962854/its_snapshot_0023.bmp)
+
 **A CH45 -ös csatornán a M2 HD műsora**  
-[its_snapshot_0024.bmp](https://github.com/user-attachments/files/34962870/its_snapshot_0024.bmp)
+
